@@ -1,5 +1,5 @@
 # 👨‍💻 Zakaria Sisu - Full Stack Developer  
-![profile](https://github.com/user-attachments/assets/a229fc5d-4b8a-4e73-b384-59cedbc5cc05)
+
 
 Welcome to my GitHub profile! I'm Zakaria Sisu, an enthusiastic full-stack developer passionate about creating impactful and innovative solutions. Whether it's front-end magic with React or back-end wizardry with Node.js, I love building things that make a difference.
 
