@@ -15,7 +15,8 @@ Here are some of my key technical skills:
 ### [Ecocompanion](https://green-living-companion.vercel.app/)   
 
 ![Project Screenshot]
-![Screenshot_20250329-180755](https://github.com/user-attachments/assets/0ce49a30-0cac-4c8d-9960-1330eddf6b1f)
+![Screenshot_20250329-180755](https://github.com/user-attachments/assets/87e1ba44-2e48-4f71-8c7c-963693e01037)
+
 
 
 <h3 align="left">Connect with me:</h3>
@@ -49,4 +50,4 @@ https://personalportfolio-one-ochre.vercel.app/
 ## 🎨 Fun Fact  
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
 ## image 
-![1744633521691](https://github.com/user-attachments/assets/a34f3bb0-7432-4e28-a82f-3ac9c2f205d0)
+![1744698879957](https://github.com/user-attachments/assets/7e5fbe86-3889-4add-a447-859155a14e62)
