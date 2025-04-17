@@ -11,7 +11,7 @@ Here are some of my key technical skills:
 - **Design:** Tailwind CSS, Responsive Web Design  
 - **Tools:** Git, VS Code
 - 
- ##💰 Sponsor me
+ ## 💰 Sponsor me
 - https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
