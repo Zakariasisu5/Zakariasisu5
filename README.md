@@ -9,7 +9,10 @@ Here are some of my key technical skills:
 - **Frameworks & Libraries:** React, Tailwind, Tkinter  
 - **Full-Stack:** Node.js, Express.js  
 - **Design:** Tailwind CSS, Responsive Web Design  
-- **Tools:** Git, VS Code  
+- **Tools:** Git, VS Code
+- 
+ ##💰 Sponsor me
+- https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
 ### [Ecocompanion](https://green-living-companion.vercel.app/)   
