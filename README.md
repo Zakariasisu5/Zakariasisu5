@@ -50,6 +50,7 @@ https://personalportfolio-one-ochre.vercel.app/
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
 
 ## ⭐ Recently finished project 
-## GPA Calculator 
-https://uds-gpa-calculator.vercel.app/
-![Screenshot_20250509-211021](https://github.com/user-attachments/assets/b38f5b56-53f1-4f04-ad11-90ee837ce9f5)
+## 🎓 GPA Calculator 
+URL: 🔗 https://uds-gpa-calculator.vercel.app/
+![IMG_20250509_211156-COLLAGE](https://github.com/user-attachments/assets/f29804a4-4274-4f40-8f8b-59d8125b1748)
+
