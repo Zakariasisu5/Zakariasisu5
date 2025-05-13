@@ -17,10 +17,6 @@ Here are some of my key technical skills:
 ## 🌟 Featured Projects  
 ### [Ecocompanion](https://green-living-companion.vercel.app/)   
 
-![Project Screenshot]
-![Screenshot_20250329-180755](https://github.com/user-attachments/assets/87e1ba44-2e48-4f71-8c7c-963693e01037)
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,5 +48,8 @@ https://personalportfolio-one-ochre.vercel.app/
 
 ## 🎨 Fun Fact  
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
-## image 
-![1744698879957](https://github.com/user-attachments/assets/7e5fbe86-3889-4add-a447-859155a14e62)
+
+## ⭐ Recently finished project 
+## GPA Calculator 
+https://uds-gpa-calculator.vercel.app/
+![Screenshot_20250509-211021](https://github.com/user-attachments/assets/b38f5b56-53f1-4f04-ad11-90ee837ce9f5)
