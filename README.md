@@ -3,6 +3,8 @@
 
 Welcome to my GitHub profile! I'm Zakaria Sisu, an enthusiastic full-stack developer passionate about creating impactful and innovative solutions. Whether it's front-end magic with React or back-end wizardry with Node.js, I love building things that make a difference.
 
+![Pull Shark](https://githubachievements.com/badge/pull-shark.svg)
+
 ## 🔧 Skills  
 Here are some of my key technical skills:
 - **Languages:** JavaScript, Python, HTML, CSS  
