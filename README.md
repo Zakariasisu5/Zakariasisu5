@@ -17,7 +17,8 @@ Here are some of my key technical skills:
 - https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
-### [Ecocompanion](https://green-living-companion.vercel.app/)   
+### [Ecocompanion](https://green-living-companion.vercel.app/)  
+###[MicroFarmly](https://microfarmly-grow-together.vercel.app)
 
 
 <h3 align="left">Connect with me:</h3>
