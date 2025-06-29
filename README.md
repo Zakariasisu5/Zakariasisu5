@@ -18,7 +18,7 @@ Here are some of my key technical skills:
 
 ## 🌟 Featured Projects  
 ### [Ecocompanion](https://green-living-companion.vercel.app/)  
-###[MicroFarmly](https://microfarmly-grow-together.vercel.app)
+### [MicroFarmly](https://microfarmly-grow-together.vercel.app)
 
 
 <h3 align="left">Connect with me:</h3>
