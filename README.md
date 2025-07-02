@@ -17,6 +17,7 @@ Here are some of my key technical skills:
 - https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
+### [BizLaunch360] https://bizlaunch360.vercel.app/
 ### [Ecocompanion](https://green-living-companion.vercel.app/)  
 ### [MicroFarmly](https://microfarmly-grow-together.vercel.app)
 
@@ -55,4 +56,7 @@ I enjoy brainstorming creative names and branding ideas for projects—just ask 
 
 ## ⭐ Recently finished project 
    📊 BizLaunch360
-   ![Uploading file_000000001458622fb8ce6607660509c8.png…]()
+   https://bizlaunch360.vercel.app/
+  
+
+   
