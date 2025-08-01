@@ -56,9 +56,10 @@ https://personalportfolio-one-ochre.vercel.app/
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
 
 ## ⭐ Recently finished project 
-   📊 BizLaunch360
-   https://bizlaunch360.vercel.app/
-  ![Uploading file_000000001458622fb8ce6607660509c8.png…]()
+   📊 Bill Generator 
+   https://bill-generator-amber.vercel.app/
+   <img width="1536" height="1024" alt="file_00000000fcf06230a6fbc767b80787c1" src="https://github.com/user-attachments/assets/8ba9c046-1771-4664-9236-131f19507b07" />
+
 
 
    
