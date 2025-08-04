@@ -17,10 +17,12 @@ Here are some of my key technical skills:
 - https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
+### [Bill-generator](https://bill-generator-amber.vercel.app/)
+### [Bright_smile](https://bright-smile-dental-ashy.vercel.app/)
 ### [BizLaunch360](https://bizlaunch360.vercel.app/)
 ### [PhoneFix](https://fix-phone-pro.vercel.app)
-### [Bright_smile](https://bright-smile-dental-ashy.vercel.app/)
-### [Bill-generator](https://bill-generator-amber.vercel.app/)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
