@@ -18,6 +18,7 @@ Here are some of my key technical skills:
 
 ## 🌟 Featured Projects  
 ### [MeetMate](https://meetmate-zeta.vercel.app)
+### [GlobPay](https://globepay.vercel.app/)
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
 ### [Bright_smile](https://bright-smile-dental-ashy.vercel.app/)
 
