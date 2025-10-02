@@ -7,9 +7,8 @@ Welcome to my GitHub profile! I'm Zakaria Sisu, an enthusiastic full-stack devel
 
 ## 🔧 Skills  
 Here are some of my key technical skills:
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React, Tailwind, Tkinter  
-- **Full-Stack:** Node.js, Express.js  
+- **Languages:** JavaScript, Python, Solidity, Move, web3, HTML
+- **Frameworks & Libraries:** React, node/express.js,  Tailwind, Web3, Next.js , typescript, Tkinter   
 - **Design:** Tailwind CSS, Responsive Web Design  
 - **Tools:** Git, VS Code
 - 
@@ -19,6 +18,7 @@ Here are some of my key technical skills:
 ## 🌟 Featured Projects  
 ### [MeetMate](https://meetmate-zeta.vercel.app)
 ### [GlobPay](https://globepay.vercel.app/)
+### [MoonFI](https://crypto-glance-haven-821.vercel.app/)
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
 ### [Bright_smile](https://bright-smile-dental-ashy.vercel.app/)
 
