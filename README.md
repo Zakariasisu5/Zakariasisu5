@@ -1,4 +1,4 @@
-# 👨‍💻 Zakaria Sisu - Full Stack Web3 Developer  
+# 👨‍💻 Zakaria Sisu - Full Stack software Developer  
 
 
 Welcome to my GitHub profile! I'm Zakaria Sisu, an enthusiastic full-stack developer passionate about creating impactful and innovative solutions. Whether it's front-end magic with React or back-end wizardry with Node.js, I love building things that make a difference.
@@ -20,7 +20,6 @@ Here are some of my key technical skills:
 ### [GlobPay](https://globepay.vercel.app/)
 ### [MoonFI](https://crypto-glance-haven-821.vercel.app/)
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
-### [Bright_smile](https://bright-smile-dental-ashy.vercel.app/)
 
 
 
@@ -35,7 +34,6 @@ Here are some of my key technical skills:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{Zakariasisu5}/count.svg)
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a><a href="https://ko-fi.com/Zakariasisu "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Zakariasisu " /></a></p><br><br>
 
@@ -50,9 +48,6 @@ Here are some of my key technical skills:
 ## 🎯 Let's Collaborate  
 Got a project idea or a challenge in mind? Feel free to [reach out](mailto:zakariasisu5@gmail.com)!  
 
-
-## Portfolio  
-https://personalportfolio-one-ochre.vercel.app/
 
 ## 🎨 Fun Fact  
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
