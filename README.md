@@ -16,9 +16,9 @@ Here are some of my key technical skills:
 - https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
-### [MeetMate](https://meetmate-zeta.vercel.app)
-### [GlobPay](https://globepay.vercel.app/)
-### [MoonFI](https://crypto-glance-haven-821.vercel.app/)
+### [MeetMate](https://meetmate-pro1.vercel.app/)
+### [Bizlaunch360](https://bizlaunch360.vercel.app/)
+### [Resume Builder](https://resume-builder-drab-mu.vercel.app/)
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
 
 
