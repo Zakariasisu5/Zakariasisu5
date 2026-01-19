@@ -17,6 +17,9 @@ Here are some of my key technical skills:
 
 ## 🌟 Featured Projects  
 ### [MeetMate](https://meetmate-pro1.vercel.app/)
+  ![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)
+
+   
 ### [Bizlaunch360](https://bizlaunch360.vercel.app/)
 ### [Resume Builder](https://resume-builder-drab-mu.vercel.app/)
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
