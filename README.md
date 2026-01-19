@@ -13,12 +13,11 @@ Here are some of my key technical skills:
 - **Tools:** Git, VS Code
 
 ## 🌟 Featured Projects  
-### [MeetMate](https://meetmate-pro1.vercel.app/)
-![file_0000000067dc61f6badbefb3b732fc76](https://github.com/user-attachments/assets/cfb488e8-800c-400a-97c0-debb611b3f06)
+### [MeetMate](https://meetmate-pro1.vercel.app/
+![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5))
 
 ### [Bizlaunch360](https://bizlaunch360.vercel.app/)
-
-  ![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)
+![file_0000000067dc61f6badbefb3b732fc76](https://github.com/user-attachments/assets/cfb488e8-800c-400a-97c0-debb611b3f06)
   
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
 
