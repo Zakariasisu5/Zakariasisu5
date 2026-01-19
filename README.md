@@ -8,21 +8,21 @@ Welcome to my GitHub profile! I'm Zakaria Sisu, an enthusiastic senior developer
 ## 🔧 Skills  
 Here are some of my key technical skills:
 - **Languages:** JavaScript, Python, Solidity, Move, web3, HTML
-- **Frameworks & Libraries:** React, node/express.js,  Tailwind, Web3, Next.js , typescript, Tkinter   
-- **Design:** Tailwind CSS, Responsive Web Design  
+- **Frameworks & Libraries:** React, node/express.js,  Tailwind, Bootstrap , Web3, Next.js , typescript, Tkinter   
+- **Design:** Figma, Canva, Responsive Web Design  
 - **Tools:** Git, VS Code
-- 
- ## 💰 Sponsor me
-- https://github.com/sponsors/Zakariasisu5
 
 ## 🌟 Featured Projects  
 ### [MeetMate](https://meetmate-pro1.vercel.app/)
-  ![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)
+![file_0000000067dc61f6badbefb3b732fc76](https://github.com/user-attachments/assets/cfb488e8-800c-400a-97c0-debb611b3f06)
 
-   
 ### [Bizlaunch360](https://bizlaunch360.vercel.app/)
-### [Resume Builder](https://resume-builder-drab-mu.vercel.app/)
+
+  ![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)
+  
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
+
+<img width="1536" height="1024" alt="file_00000000fcf06230a6fbc767b80787c1" src="https://github.com/user-attachments/assets/8ba9c046-1771-4664-9236-131f19507b07" />
 
 
 <h3 align="left">Connect with me:</h3>
@@ -53,10 +53,6 @@ Got a project idea or a challenge in mind? Feel free to [reach out](mailto:zakar
 ## 🎨 Fun Fact  
 I enjoy brainstorming creative names and branding ideas for projects—just ask me about my recent hackathon adventures!
 
-## ⭐ Recently finished project 
-   📊 Bill Generator 
-   https://bill-generator-amber.vercel.app/
-   <img width="1536" height="1024" alt="file_00000000fcf06230a6fbc767b80787c1" src="https://github.com/user-attachments/assets/8ba9c046-1771-4664-9236-131f19507b07" />
 
 
 
