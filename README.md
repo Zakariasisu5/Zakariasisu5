@@ -1,5 +1,5 @@
 # 👨‍💻 Zakaria Sisu — Software Developer
-# 🚀 Software Developer | Frontend • Backend • Web3
+# 🚀 Frontend • Backend • Web3
 Welcome to my GitHub! I’m Zakaria Sisu, a passionate software developer focused on building scalable, user-friendly, and impactful digital products.
 From crafting smooth UI experiences with React & Next.js to building secure backends and Web3 smart contracts, I enjoy turning ideas into real-world solutions.
 
