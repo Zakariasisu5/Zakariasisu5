@@ -14,14 +14,12 @@ Here are some of my key technical skills:
 
 ## 🌟 Featured Projects  
 ### [MeetMate](https://meetmate-pro1.vercel.app/)
-![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)  ### [Mooncreditfi](https://mooncreditfi.vercel.app/)
-![Screenshot_27-1-2026_133848_localhost](https://github.com/user-attachments/assets/81b04105-f971-4031-8dc9-e9fd92eb17fa)
-https://mooncreditfi.vercel.app
+![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)  
 ### 🌐 URL: https://meetmate-pro1.vercel.app/
 
-### [Bizlaunch360](https://bizlaunch360.vercel.app/)
-![file_0000000067dc61f6badbefb3b732fc76](https://github.com/user-attachments/assets/cfb488e8-800c-400a-97c0-debb611b3f06) 
-  ### 🌐URL : https://bizlaunch360.vercel.app/
+### [Mooncreditfi](https://mooncreditfi.vercel.app/)
+![Screenshot_27-1-2026_133848_localhost](https://github.com/user-attachments/assets/81b04105-f971-4031-8dc9-e9fd92eb17fa)
+https://mooncreditfi.vercel.app
   
 
 ### [Bill-generator](https://bill-generator-amber.vercel.app/)
