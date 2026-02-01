@@ -7,7 +7,7 @@ From crafting smooth UI experiences with React & Next.js to building secure back
 
 ## 🔧 Skills  
 Here are some of my key technical skills:
-- **Languages:** JavaScript, Python, Solidity, Move, web3, HTML
+- **Languages:** JavaScript, Python, Solidity, Move, HTML, typescript 
 - **Frameworks & Libraries:** React, node/express.js,  Tailwind, Bootstrap , Web3, Next.js , typescript, Tkinter   
 - **Design:** Figma, Canva, Responsive Web Design  
 - **Tools:** Git, VS Code
