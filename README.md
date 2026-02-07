@@ -26,10 +26,6 @@ Here are some of my key technical skills:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a><a href="https://ko-fi.com/Zakariasisu "> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Zakariasisu " /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariasisu5&show_icons=true&locale=en&layout=compact" alt="zakariasisu5" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariasisu5&show_icons=true&locale=en" alt="zakariasisu5" /></p>
-
 ## 🌱 What I’m Learning  
 - Advanced cloud engineering and Web3 technologies.  
 - Exploring AI-driven solutions for health tech innovations.
