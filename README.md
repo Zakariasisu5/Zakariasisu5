@@ -34,9 +34,10 @@ Here are some of my key technical skills:
 Got a project idea or a challenge in mind? Feel free to [reach out](mailto:zakariasisu5@gmail.com)!  
 
 ## 🌟 Featured Projects  
-### [MeetMate](https://meetmate-pro1.vercel.app/)
-![Screenshot_20260116-024714](https://github.com/user-attachments/assets/86b9c4be-3140-4b0f-adeb-d91cbce841e5)  
-### 🌐 URL: https://meetmate-pro1.vercel.app/
+### [Confnect](https://confnect.site)
+![IMG-20260225-WA0022](https://github.com/user-attachments/assets/9ca89d35-036d-4cf4-a800-edf865ff1494)
+
+### 🌐 URL: https://confnect.site
 
 ### [Mooncreditfi](https://mooncreditfi.vercel.app/)
 ![Screenshot_27-1-2026_133848_localhost](https://github.com/user-attachments/assets/81b04105-f971-4031-8dc9-e9fd92eb17fa)
