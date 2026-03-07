@@ -39,7 +39,7 @@ Got a project idea or a challenge in mind? Feel free to [reach out](mailto:zakar
 
 ### 🌐 URL: https://confnect.site
 
-### [Mooncreditfi](https://mooncreditfi.vercel.app/)
+### [Mooncreditfi](https://mooncreditfi-phi.vercel.app/)
 ![Screenshot_27-1-2026_133848_localhost](https://github.com/user-attachments/assets/81b04105-f971-4031-8dc9-e9fd92eb17fa)
 https://mooncreditfi.vercel.app
 
