@@ -1,11 +1,11 @@
 <!-- 🔥 Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Zakaria%20Sisu&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0366d6,100:2C5364&height=220&section=header&text=Zakaria%20Sisu&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=👨‍💻+Software+Developer;🚀+Frontend+•+Backend+•+Web3;+🌍+Based+in+Ghana" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0366d6&center=true&vCenter=true&width=700&lines=👨‍💻+Software+Developer;🚀+Frontend+•+Backend+•+Web3;+🌍+Based+in+Ghana" />
 </p>
 
 ---
