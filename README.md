@@ -45,7 +45,11 @@
 </p>
 
 <p>
-  <strong>Also:</strong> Web3 • Move • Tkinter • Figma • Canva
+<img src="https://img.shields.io/badge/Web3-%230366d6?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Move-%230066CC?style=for-the-badge&logo=aptos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tkinter-%230080FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2316BDFF?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
