@@ -1,5 +1,16 @@
-# 👨‍💻 Zakaria Sisu — Software Developer
-# 🚀 Frontend • Backend • Web3
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Zakaria%20Sisu&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=👨‍💻+Software+Developer;🚀+Frontend+•+Backend+•+Web3;⚡+Building+Scalable+Apps;🌍+Based+in+Ghana" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zakariasisu5&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zakariasisu5&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
 Welcome to my GitHub! I’m Zakaria Sisu, a passionate software developer focused on building scalable, user-friendly, and impactful digital products.
 From crafting smooth UI experiences with React & Next.js to building secure backends and Web3 smart contracts, I enjoy turning ideas into real-world solutions.
 
