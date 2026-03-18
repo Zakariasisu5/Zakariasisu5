@@ -111,11 +111,10 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake  
+## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/Zakariasisu5/Zakariasisu5/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://ghchart.rshah.org/Zakariasisu5" alt="Zakaria's GitHub chart" />
 </p>
 
 ---
