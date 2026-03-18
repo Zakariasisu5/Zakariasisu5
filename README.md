@@ -5,7 +5,7 @@
 
 <!-- 🔥 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👨‍💻+Software+Developer;🚀+Frontend+•+Backend+•+Web3;⚡+Building+MeetMate+%26+Confnect;🌍+Based+in+Ghana" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👨‍💻+Software+Developer;🚀+Frontend+•+Backend+•+Web3;+🌍+Based+in+Ghana" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 💡 Passionate **Full-Stack Developer** building scalable and impactful digital products  
 🔗 Focused on **Web3, Cloud, and Modern Web Applications**  
-⚡ Currently working on **MeetMate** & **Confnect**  
+⚡ Currently working on **Confnect**  
 🌍 Based in Ghana  
 
 ---
