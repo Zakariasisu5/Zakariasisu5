@@ -50,6 +50,8 @@
   <img src="https://img.shields.io/badge/Tkinter-%230080FF?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2316BDFF?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-%233C3C3D?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clarity-%23000000?style=for-the-badge&logo=stackexchange&logoColor=white" />
 </p>
 
 ---
