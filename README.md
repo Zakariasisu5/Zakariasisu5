@@ -82,8 +82,7 @@
 💬 Open to:
 - Startup ideas  
 - Freelance projects  
-- Open-source collaboration  
-
+- Open-source collaboration 
 📩 **Email:** zakariasisu5@gmail.com  
 
 ---
