@@ -56,17 +56,13 @@
 
 ---
 
-## 🌟 Featured Project  
+## 🚀 Featured Projects
 
-### 🚀 Confnect  
-🔗 https://confnect.site  
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9ca89d35-036d-4cf4-a800-edf865ff1494" width="80%" />
-</p>
-
-💡 A platform that connects people through shared interests, events, and communities.
-
+| Project | Logo | Link |
+|----------|------|------|
+| **Confnect** | ![Confnect](https://img.shields.io/badge/Confnect-000000?style=for-the-badge&logo=airplayvideo&logoColor=white) | https://confnect.site |
+| **BitTrust** | ![BitTrust](https://img.shields.io/badge/BitTrust-1e293b?style=for-the-badge&logo=trustpilot&logoColor=white) | https://bittrust-five.vercel.app |
+| **MoonCreditFi** | ![MoonCreditFi](https://img.shields.io/badge/MoonCreditFi-0f172a?style=for-the-badge&logo=monero&logoColor=white) | https://mooncreditfi-sui.vercel.app |
 ---
 
 ## 🌱 Currently Learning  
