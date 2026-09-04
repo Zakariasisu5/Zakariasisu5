@@ -14,7 +14,7 @@
 
 💡 Passionate **Full-Stack Developer** building scalable and impactful digital products  
 🔗 Focused on **Web3, Cloud, and Modern Web Applications**  
-⚡ Currently working on **Confnect**  
+⚡ Currently working on **credlayer**  
 🌍 Based in Ghana  
 
 ---
