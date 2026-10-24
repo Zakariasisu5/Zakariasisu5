@@ -61,7 +61,7 @@
 | Project | Logo | Link |
 |----------|------|------|
 | **CredLayer** | ![CredLayer](https://img.shields.io/badge/CredLayer-0f172a?style=for-the-badge&logo=shield&logoColor=white) | https://credlayer1.vercel.app/ |
-| **RemitShip** | ![RemitShip] | https:/ https://remitship.online// |
+| **RemitShip** | **RemitShip** | https://remitship.online |
 | **Confnect** | ![Confnect](https://img.shields.io/badge/Confnect-000000?style=for-the-badge&logo=airplayvideo&logoColor=white) | https://confnect.site |
 | **BitTrust** | ![BitTrust](https://img.shields.io/badge/BitTrust-1e293b?style=for-the-badge&logo=trustpilot&logoColor=white) | https://bittrust-five.vercel.app |
 | **MoonCreditFi** | ![MoonCreditFi](https://img.shields.io/badge/MoonCreditFi-0f172a?style=for-the-badge&logo=monero&logoColor=white) | https://mooncreditfi-sui.vercel.app |
